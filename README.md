@@ -7,7 +7,7 @@
 
 ## Developer Manual
  
-© 2015 The XOOPS Project (http://xoops.org)    
+© 2015 The XOOPS Project (https://xoops.org)    
 
 ### Framework Purpose 
 
